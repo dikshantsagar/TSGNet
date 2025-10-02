@@ -1,0 +1,6 @@
+pytorch==2.4.1
+numpy==1.26.4
+lightning==2.5.1
+wandb==0.20.1
+opencv==4.10.0
+
