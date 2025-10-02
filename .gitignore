@@ -1,0 +1,51 @@
+# ---------------------
+# Python
+# ---------------------
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+ENV/
+.ipynb_checkpoints
+.DS_Store
+
+# ---------------------
+# IDE / Editors
+# ---------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---------------------
+# Logs / Outputs
+# ---------------------
+logs/
+*.out
+*.err
+output/
+outputs/
+checkpoints/
+runs/
+wandb/
+tensorboard/
+events.out.tfevents*
+
+
+# ---------------------
+# Data
+# ---------------------
+*.h5
+*.npy
+*.npz
+*.csv
+*.tsv
+*.parquet
+*.pkl
+*.pickle
